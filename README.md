@@ -4,6 +4,8 @@ Mbed IC Library
 Mbedの各種IC用自作ライブラリ
 
 ## Description
+- ファンクションジェネレータ AD9833
+
 
 ## Requirement
 
